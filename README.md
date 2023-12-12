@@ -1,4 +1,4 @@
-# sqlak PHP Class
+# Sqlak
 
 ## Overview
 
